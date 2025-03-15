@@ -3,7 +3,7 @@ layout: post
 title: "Goals for Free95"
 date: 2025-03-14
 author: ThatOSDeveloper
-tags: "Goals"
+tags: "Free95"
 ---
 
 Free95 is custom OS that is meant to replicate the windows API while still having a different kernel, this project differs from other operating systems such as reactOS which attempts to replicate the NT kernel, but we plan to only replicate the API, with a custom kernel that handles all the stuff the API needs to function.

@@ -3,7 +3,7 @@ layout: default
 title: "Free95 a FOSS Windows Alternative"
 ---
 
-# Welcome to Free95
+# Welcome to the Free95 blog
 
 ## Latest Posts
 
