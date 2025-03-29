@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beta 2 release, and Beta 3 progress report"
-date: 2025-03-23
+date: 2025-03-29
 author: realblobii
 tags: "Free95"
 ---
