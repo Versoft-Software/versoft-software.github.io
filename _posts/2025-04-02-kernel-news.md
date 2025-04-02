@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New kernel"
-date: 2025-03-14
+date: 2025-04-02
 author: ThatOSDeveloper
 tags: "Free95"
 ---
